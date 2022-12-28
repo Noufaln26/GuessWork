@@ -68,4 +68,4 @@ function resetGame() {
   lastResult.getElementsByClassName.backgroundColor = "white";
   rand = Math.floor(Math.random() * 100) + 1;
 }
-console.log(rand);
+
